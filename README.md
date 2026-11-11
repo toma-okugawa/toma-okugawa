@@ -4,7 +4,7 @@
 
 **Seeing in the dark — low-light vision, practical AI, and the story behind it.**
 
-Student · Engineer · Researcher · Founder · Artist
+Student · Engineer · Researcher · Founder
 
 3rd-year student, Department of Information Science and Technology, NIT Yuge College, Japan<br>
 Representative Member, Fieldlight LLC (合同会社Fieldlight) — registration in progress
