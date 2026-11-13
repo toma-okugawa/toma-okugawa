@@ -7,7 +7,7 @@
 Student · Engineer · Researcher · Founder
 
 3rd-year student, Department of Information Science and Technology, NIT Yuge College, Japan<br>
-Representative Member, Fieldlight LLC (合同会社Fieldlight) — registration in progress
+Representative Member, Fieldlight LLC (合同会社Fieldlight)
 
 [![Website](https://img.shields.io/badge/Website-t--okugawa.studio-2563EB?style=flat-square)](https://t-okugawa.studio/) [![Fieldlight LLC](https://img.shields.io/badge/Fieldlight_LLC-fieldlight.co.jp-2563EB?style=flat-square)](https://fieldlight.co.jp/) [![researchmap](https://img.shields.io/badge/researchmap-t__okugawa-2563EB?style=flat-square)](https://researchmap.jp/t_okugawa) [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--3553--0617-2563EB?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-3553-0617)
 
@@ -15,11 +15,11 @@ Representative Member, Fieldlight LLC (合同会社Fieldlight) — registration 
 
 ## About
 
-I grew up on Yuge, a small island in Kamijima Town, Ehime, and study at the National Institute of Technology (KOSEN), Yuge College. My research focuses on low-light image enhancement (Retinex) and real-time human pose estimation, with side projects in small language models for regional policy and in entrepreneurship education. In November 2026 I applied to register **Fieldlight LLC**, the company behind my two products, **Beacon** and **Kyudo AI**. I also make generative art, and I learn in public, including from failure.
+I grew up on Yuge, a small island in Kamijima Town, Ehime, and study at the National Institute of Technology (KOSEN), Yuge College. My research focuses on low-light image enhancement (Retinex) and real-time human pose estimation, with side projects in small language models for regional policy and in entrepreneurship education. I founded **Fieldlight LLC**, the company behind my two products, **Beacon** and **Kyudo AI**. I also make generative art, and I learn in public, including from failure.
 
 ## Fieldlight LLC
 
-A technology company in Kamijima, Ehime that turns my research into products. Registration is in progress. [fieldlight.co.jp](https://fieldlight.co.jp/)
+A technology company in Kamijima, Ehime that turns my research into products. [fieldlight.co.jp](https://fieldlight.co.jp/)
 
 | Product | What it does | Recognition |
 | --- | --- | --- |
@@ -67,7 +67,7 @@ A training-free, CPU-oriented low-light method: a stable real-axis kernel (the s
 <details>
 <summary>日本語プロフィール</summary>
 
-愛媛県上島町の弓削島で育ち、国立弓削商船高等専門学校 情報工学科の3年生です。低照度画像強調（Retinex）とリアルタイム姿勢推定を研究しています。2026年11月、研究から生まれた製品 Beacon と Kyudo AI を事業にするため、合同会社Fieldlight の設立登記を申請しました（現在申請中）。ジェネラティブアートも制作しています。失敗も含めて、学びを公開しています。業績の一覧は [researchmap](https://researchmap.jp/t_okugawa) にあります。
+愛媛県上島町の弓削島で育ち、国立弓削商船高等専門学校 情報工学科の3年生です。低照度画像強調（Retinex）とリアルタイム姿勢推定を研究しています。研究から生まれた製品 Beacon と Kyudo AI を事業にするため、合同会社Fieldlight を設立しました。ジェネラティブアートも制作しています。失敗も含めて、学びを公開しています。業績の一覧は [researchmap](https://researchmap.jp/t_okugawa) にあります。
 
 </details>
 
