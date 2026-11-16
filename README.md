@@ -24,7 +24,7 @@ A technology company in Kamijima, Ehime that turns my research into products. [f
 | Product | What it does | Recognition |
 | --- | --- | --- |
 | **[Beacon](https://beacon-official.com/)** | Software that makes dark images visible, in development to be built into other companies' devices such as inspection cameras and robots: the enhancement needs no training and runs on a CPU alone, and all processing is designed to stay inside the device | Tongali Business Plan Contest 2026 — four awards |
-| **[Kyudo AI](https://kyudo-ai.com/)** | Stand a phone up and shoot: the app detects the full draw (*kai*) on the device and scores the shooting form | Startup World Cup Kyushu Regional, Youth Pitch — 3rd place (2026-10) |
+| **[Kyudo AI](https://kyudo-ai.com/)** | Stand a phone up and shoot: the app detects the full draw (*kai*) on the device and scores the shooting form (in development, before store release) | Startup World Cup Kyushu Regional, Youth Pitch — 3rd place (2026-10) |
 
 ## Featured
 
