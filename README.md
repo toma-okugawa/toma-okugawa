@@ -23,7 +23,7 @@ A technology company in Kamijima, Ehime that turns my research into products. [f
 
 | Product | What it does | Recognition |
 | --- | --- | --- |
-| **[Beacon](https://beacon-official.com/)** | Fully offline inspection in the dark: low-light enhancement, object detection and a local LLM on one existing PC, with no cloud transmission | Tongali Business Plan Contest 2026 — four awards |
+| **[Beacon](https://beacon-official.com/)** | Software that makes dark images visible, in development to be built into other companies' devices such as inspection cameras and robots: the enhancement needs no training and runs on a CPU alone, and all processing is designed to stay inside the device | Tongali Business Plan Contest 2026 — four awards |
 | **[Kyudo AI](https://kyudo-ai.com/)** | Stand a phone up and shoot: the app detects the full draw (*kai*) on the device and scores the shooting form | Startup World Cup Kyushu Regional, Youth Pitch — 3rd place (2026-10) |
 
 ## Featured
@@ -40,7 +40,7 @@ A training-free, CPU-oriented low-light method: a stable real-axis kernel (the s
 
 - **2026-11** — [7th High School Business Idea Contest for the Future and Health](https://www.towayakuhin.co.jp/bizcon/) (Towa Pharmaceutical) — Grand Prix, team.
 - **2026-10** — [Startup World Cup Kyushu Regional, Youth Pitch Contest — 3rd place](https://www.startupworldcup.io/kyushu-regional) (Kyudo AI).
-- **2026-10** — IEEE GCCE 2026, Kobe — oral presentation; paper to appear in the proceedings.
+- **2026-10** — IEEE GCCE 2026 — oral presentation (online session); paper to appear in the proceedings.
 - **2026-10** — KOSEN Programming Contest, Free Division — Fighting Spirit Award (敢闘賞), team.
 - **2026-09** — [Lean LaunchPad Nagoya — Grand Prize](https://tongali.net/events/llp2026/) (最優秀賞), team.
 - **2026-06** — [Tongali Business Plan Contest 2026](https://tongali.net/wptongali/wp-content/uploads/2026/06/biz-contest2026-result.pdf) (Beacon): NICT Award, JR Central (JR東海) Award, Beyond Next Ventures Award, and Tongali Award 5th place.
